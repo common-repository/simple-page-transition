@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Page Transition\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-25 13:06+0100\n"
+"PO-Revision-Date: 2014-01-25 13:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: juz <juz@ecedi.fr>\n"
+"Language: Français\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: D:\\wamp\\www\\GridLayout\\wp-content\\plugins"
+"\\simple-page-transition\n"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/settings.php:34
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/settings.php:35
+msgid "Simple Page Transition"
+msgstr "Simple Page Transition"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/settings.php:143
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:29
+msgid "Choose Background Image"
+msgstr "Sélectionner une Image de Fond"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:9
+msgid "Simple Page Transition Settings"
+msgstr "Réglages de Simple Page Transition"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:13
+msgid "Simple Page Transition general settings"
+msgstr "Réglages généraux de Simple Page Transition"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:36
+msgid "Background Color"
+msgstr "Couleur de Fond"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:43
+msgid "Background Opacity"
+msgstr "Opacité du Fond"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:50
+msgid "Background Position"
+msgstr "Position de l'Image de Fond"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:52
+msgid "CSS position, LEFT TOP (ex: 50% 100px)"
+msgstr "Position CSS, GAUCHE HAUT (ex : 50% 100px)"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:58
+msgid "Transition Duration in in ms"
+msgstr "Durée de la Transition d'Affichage en ms"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:65
+msgid "Transition Duration out in ms"
+msgstr "Durée de la Transition de Masquage en ms"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:72
+msgid "Ignored Download Links"
+msgstr "Liens de Téléchargement Ignorés"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:74
+msgid ""
+"CSS Selectors, separated by comas<br />ex: .downloadlink1, "
+"#downloadlink2, ...<br />Avoid showing Loader when a download link is click."
+msgstr ""
+"Sélecteurs CSS, séparés par des virgules<br />ex : .lien1, #lien2, ...<br /"
+">Empêche le Loader de se montrer au click sur un lien de téléchargement."
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:80
+msgid "Restore Defaults"
+msgstr "Restaurer les Réglages par Défaut"
+
+#: D:\wamp\www\GridLayout\wp-content\plugins\simple-page-transition/views/settings.php:81
+msgid "Save settings"
+msgstr "Sauver les réglages"
+
+#~ msgid "Nivo Lightbox"
+#~ msgstr "Nivo Lightbox"
+
+#~ msgid "The requested content cannot be loaded. Please try again later."
+#~ msgstr ""
+#~ "Le contenu demandé ne peut être chargé. Merci d'essayer ultérieurement."
+
+#~ msgid "Nivo Lightbox Settings"
+#~ msgstr "Réglages de Nivo Lightbox"
+
+#~ msgid "Fade"
+#~ msgstr "Estompé (Fade)"
+
+#~ msgid "Fade Scale"
+#~ msgstr "Estompé + mise à l'échelle (Fade Scale)"
+
+#~ msgid "Slide Left"
+#~ msgstr "Glissé à Gauche (Slide Left)"
+
+#~ msgid "Slide Right"
+#~ msgstr "Glissé à Droite (Slide Right)"
+
+#~ msgid "Slide Up"
+#~ msgstr "Glissé vers le Haut (Slide Up)"
+
+#~ msgid "Slide Down"
+#~ msgstr "Glissé vers le Bas (Slide Down)"
+
+#~ msgid "Fall"
+#~ msgstr "Chute (Fall)"
+
+#~ msgid "Nivo Lightbox Effect"
+#~ msgstr "Effets de la Nivo Lightbox"
+
+#~ msgid "Image Auto Select"
+#~ msgstr "Sélection Automatique des Images"
+
+#~ msgid "PDF Auto Select"
+#~ msgstr "Sélection Automatique des PDF"
+
+#~ msgid "SFW Auto Select"
+#~ msgstr "Sélection Automatique des SWF"
+
+#~ msgid "Youtube Auto Select"
+#~ msgstr "Sélection Automatique des Vidéos Youtube"
+
+#~ msgid "Vimeo Auto Select"
+#~ msgstr "Sélection Automatique des Vidéos Viméo"
+
+#~ msgid "Daylimotion Auto Select"
+#~ msgstr "Sélection Automatique des Vidéos Dailymotion"
+
+#~ msgid "Added Selectors"
+#~ msgstr "Sélecteurs Supplémentaires"
+
+#~ msgid "CSS selector separated by coma. For exemple : \"#id1, .class2\"."
+#~ msgstr ""
+#~ "Sélecteurs CSS séparés par des virgules. Par exemple : \"#id1, .class2\"."
+
+#~ msgid "Ignored Selectors"
+#~ msgstr "Sélecteurs ignorés"
+
+#~ msgid "Menu Relation"
+#~ msgstr "Entrée de Menu en Relation"
+
+#~ msgid "Select Menu"
+#~ msgstr "Choisissez un Menu"
+
+#~ msgctxt "menu"
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Select Menu Entry"
+#~ msgstr "Choisissez une Entrée de Menu"
+
+#~ msgctxt "menu-item"
+#~ msgid "None"
+#~ msgstr "Aucune"
+
+#~ msgid "Empty"
+#~ msgstr "Aucune"
+
+#~ msgid "Not found"
+#~ msgstr "Non trouvé"
+
+#~ msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+#~ msgstr "C'est quelque peu embarassant, n'est-ce pas ?"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr ""
+#~ "Il semble que rien n'ai été trouvé à cette adresse. Peut-être pouvez-vous "
+#~ "essayer la recherche ?"
+
+#~ msgid "Edit"
+#~ msgstr "Éditer"
+
+#~ msgid "Nothing Found"
+#~ msgstr "Rien n'a été trouvé !"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with "
+#~ "different keywords."
+#~ msgstr ""
+#~ "Désolé mais rien ne correspond à votre recherche. Merci d'essayez avec "
+#~ "différents mots clés."
+
+#~ msgid "View all Free Seeds in %s"
+#~ msgstr "Voir toutes les graines de %s"
+
+#~ msgid "By Ju.Z"
+#~ msgstr "Par Ju.Z"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Previous seeds"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Graines précédentes"
+
+#~ msgid "Next seeds <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Graines suivantes <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgctxt "Previous seed"
+#~ msgid "<span class=\"meta-nav\">&larr;</span> %title"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#~ msgctxt "Next seed"
+#~ msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#~ msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "Résultats de recherche pour : \"%s\""
+
+#~ msgid "Proudly powered by %s"
+#~ msgstr "Fièrement propulsé par %s"
